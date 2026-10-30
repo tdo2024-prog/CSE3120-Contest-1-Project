@@ -1,0 +1,6 @@
+# MASM and linker build outputs
+*.exe
+*.obj
+*.lst
+*.ilk
+*.pdb
